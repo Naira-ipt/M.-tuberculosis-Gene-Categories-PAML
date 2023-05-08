@@ -9,3 +9,6 @@ We used gff2fasta.pl to parse genomes into genes, using h37rv.gff3 as Reference.
 
 # 3. Genes concatenation 
 We concatenated all genes belonging to the same Gene Category together to obtain a concatenated FASTA file using in-house script concat.sh
+
+
+See Scripts folder 
