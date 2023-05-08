@@ -2,7 +2,7 @@
 Detection of Positive Selection Sites in M. tuberculosis Gene Categories
 
 # Introduction
-Evidence of positive selection in a protein's amino acid sequence is generally assessed by comparing the nonsynonymous rate (dN) with the synonymous rate (dS)(Kimura 1977, Miyaga & Yasunaga 1980). When the rate ratio 
+Evidence of positive selection in a protein's amino acid sequence is generally assessed by comparing the nonsynonymous rate (dN) with the synonymous rate (dS) (Kimura 1977, Miyaga & Yasunaga 1980). When the rate ratio 
 
 • ω = dN/dS > 1, the nonsynonymous rate is greater than the synonymous rate and this is interpreted as evidence for the action of positive selection. 
 
