@@ -5,7 +5,7 @@ Tunisian L4.3/LAM Raw data were deposited in the European Nucleotide Archive (Ac
 VCF files from [Novoalign](https://www.novocraft.com/) are converted to FASTA using GATK [FastaAlternateReferenceMaker](https://gatk.broadinstitute.org/hc/en-us/articles/360037594571-FastaAlternateReferenceMaker)
 
 # 2. GFF2FASTA
-We used gff2fasta.pl to parse genomes into genes, using h37rv.gff3 as Reference.
+We used gff2fasta.pl to parse genomes into genes, h37rv.gff3 as Reference.
 
 # 3. Genes concatenation 
 We concatenated all genes belonging to the same Gene Category together to obtain a concatenated FASTA file using in-house script concat.sh
