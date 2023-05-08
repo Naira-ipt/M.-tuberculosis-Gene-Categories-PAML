@@ -1,5 +1,5 @@
 # M.-tuberculosis-Gene-Categories-PAML
-Detection of Positive Selection Sites in M. tuberculosis Gene Categories
+Detection of Positive Selection Sites across M. tuberculosis Genomes
 
 # Introduction
 Evidence of positive selection in a protein's amino acid sequence is generally assessed by comparing the nonsynonymous rate (dN) with the synonymous rate (dS) (Kimura 1977, Miyaga & Yasunaga 1980). When the rate ratio 
