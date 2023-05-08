@@ -10,7 +10,7 @@ Evidence of positive selection in a protein's amino acid sequence is generally a
 
 • whereas neutral evolution is assumed when ω = 1
 
-PAML (Yang Z. 2007) is widely used in the molecular evolution community, and its branch-site models can be used to detect evidence of positive selection that acted on a particular branch or set of branches
+PAML [Yang Z. 2007](https://academic.oup.com/mbe/article/24/8/1586/1103731) is widely used in the molecular evolution community, and its branch-site models can be used to detect evidence of positive selection that acted on a particular branch or set of branches
 
 
 # What can I find in this repository?
